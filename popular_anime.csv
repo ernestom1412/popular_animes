@@ -1,0 +1,101 @@
+Rank,Title,Score,Format,Date,Studio,Genres,Source,Rating,Recommendation
+1,Death Note,8.63,TV (37 eps),Oct 2006 - Jun 2007,Madhouse,"['Mystery', 'Supernatural', 'Suspense', 'Police', 'Psychological', 'Shounen']",Manga,R - 17+ (violence & profanity),Code Geass: Hangyaku no Lelouch
+2,Shingeki no Kyojin,8.51,TV (25 eps),Apr 2013 - Sep 2013,Wit Studio,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Military', 'Super Power', 'Shounen']",Manga,R - 17+ (violence & profanity),Koutetsujou no Kabaneri
+3,Fullmetal Alchemist: Brotherhood,9.16,TV (64 eps),Apr 2009 - Jul 2010,Bones,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Military', 'Shounen']",Manga,R - 17+ (violence & profanity),Hunter x Hunter (2011)
+4,Sword Art Online,7.21,TV (25 eps),Jul 2012 - Dec 2012,A-1 Pictures,"['Action', 'Adventure', 'Fantasy', 'Romance', 'Game']",Light novel,PG-13 - Teens 13 or older,Log Horizon
+5,One Punch Man,8.53,TV (12 eps),Oct 2015 - Dec 2015,Madhouse,"['Action', 'Comedy', 'Sci-Fi', 'Supernatural', 'Parody', 'Super Power']",Web manga,R - 17+ (violence & profanity),Mob Psycho 100
+6,Boku no Hero Academia,8.00,TV (13 eps),Apr 2016 - Jun 2016,Bones,"['Action', 'Comedy', 'School', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,One Punch Man
+7,Tokyo Ghoul,7.80,TV (12 eps),Jul 2014 - Sep 2014,Studio Pierrot,"['Action', 'Drama', 'Horror', 'Mystery', 'Supernatural', 'Psychological', 'Seinen']",Manga,R - 17+ (violence & profanity),Kiseijuu: Sei no Kakuritsu
+8,Naruto,7.95,TV (220 eps),Oct 2002 - Feb 2007,Studio Pierrot,"['Action', 'Adventure', 'Comedy', 'Martial Arts', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,Black Clover
+9,Kimi no Na wa.,8.90,Movie (1 eps),Aug 2016 - Aug 2016,CoMix Wave Films,"['Drama', 'Romance', 'Supernatural', 'School']",Original,PG-13 - Teens 13 or older,Tenki no Ko
+10,Hunter x Hunter (2011),9.06,TV (148 eps),Oct 2011 - Sep 2014,Madhouse,"['Action', 'Adventure', 'Fantasy', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,Fullmetal Alchemist: Brotherhood
+11,Steins;Gate,9.10,TV (24 eps),Apr 2011 - Sep 2011,White Fox,"['Drama', 'Sci-Fi', 'Suspense', 'Psychological']",Visual novel,PG-13 - Teens 13 or older,Boku dake ga Inai Machi
+12,Shingeki no Kyojin Season 2,8.49,TV (12 eps),Apr 2017 - Jun 2017,Wit Studio,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Military', 'Super Power', 'Shounen']",Manga,R - 17+ (violence & profanity),Koutetsujou no Kabaneri
+13,Kimetsu no Yaiba,8.58,TV (26 eps),Apr 2019 - Sep 2019,ufotable,"['Action', 'Supernatural', 'Demons', 'Historical', 'Shounen']",Manga,R - 17+ (violence & profanity),Jujutsu Kaisen (TV)
+14,No Game No Life,8.14,TV (12 eps),Apr 2014 - Jun 2014,Madhouse,"['Adventure', 'Comedy', 'Fantasy', 'Supernatural', 'Ecchi', 'Game']",Light novel,PG-13 - Teens 13 or older,Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
+15,Boku no Hero Academia 2nd Season,8.22,TV (25 eps),Apr 2017 - Sep 2017,Bones,"['Action', 'Comedy', 'School', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,Naruto
+16,Naruto: Shippuuden,8.21,TV (500 eps),Feb 2007 - Mar 2017,Studio Pierrot,"['Action', 'Adventure', 'Comedy', 'Martial Arts', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,Bleach
+17,Code Geass: Hangyaku no Lelouch,8.71,TV (25 eps),Oct 2006 - Jul 2007,Sunrise,"['Action', 'Drama', 'Sci-Fi', 'Mecha', 'Military', 'School', 'Super Power']",Original,R - 17+ (violence & profanity),Death Note
+18,Toradora!,8.15,TV (25 eps),Oct 2008 - Mar 2009,J.C.Staff,"['Comedy', 'Romance', 'Slice of Life', 'School']",Light novel,PG-13 - Teens 13 or older,Zero no Tsukaima
+19,Angel Beats!,8.10,TV (13 eps),Apr 2010 - Jun 2010,P.A. Works,"['Action', 'Comedy', 'Drama', 'Supernatural', 'School']",Original,PG-13 - Teens 13 or older,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+20,Noragami,7.98,TV (12 eps),Jan 2014 - Mar 2014,Bones,"['Action', 'Adventure', 'Comedy', 'Supernatural', 'Shounen']",Manga,PG-13 - Teens 13 or older,Kamisama Hajimemashita
+21,Re:Zero kara Hajimeru Isekai Seikatsu,8.26,TV (25 eps),Apr 2016 - Sep 2016,White Fox,"['Drama', 'Fantasy', 'Suspense', 'Psychological']",Light novel,R - 17+ (violence & profanity),Steins;Gate
+22,Shigatsu wa Kimi no Uso,8.69,TV (22 eps),Oct 2014 - Mar 2015,A-1 Pictures,"['Drama', 'Romance', 'Music', 'School', 'Shounen']",Manga,PG-13 - Teens 13 or older,3-gatsu no Lion
+23,Koe no Katachi,8.97,Movie (1 eps),Sep 2016 - Sep 2016,Kyoto Animation,"['Drama', 'School', 'Shounen']",Manga,PG-13 - Teens 13 or older,Kimi no Na wa.
+24,Mirai Nikki (TV),7.48,TV (26 eps),Oct 2011 - Apr 2012,asread.,"['Action', 'Mystery', 'Supernatural', 'Suspense', 'Psychological', 'Shounen']",Manga,R+ - Mild Nudity,Deadman Wonderland
+25,Boku no Hero Academia 3rd Season,8.15,TV (25 eps),Apr 2018 - Sep 2018,Bones,"['Action', 'Comedy', 'School', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,Ansatsu Kyoushitsu
+26,Nanatsu no Taizai,7.77,TV (24 eps),Oct 2014 - Mar 2015,A-1 Pictures,"['Action', 'Adventure', 'Fantasy', 'Supernatural', 'Shounen']",Manga,PG-13 - Teens 13 or older,Akame ga Kill!
+27,Akame ga Kill!,7.48,TV (24 eps),Jul 2014 - Dec 2014,White Fox,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Shounen']",Manga,R - 17+ (violence & profanity),Nanatsu no Taizai
+28,Shingeki no Kyojin Season 3,8.63,TV (12 eps),Jul 2018 - Oct 2018,Wit Studio,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Military', 'Super Power', 'Shounen']",Manga,R - 17+ (violence & profanity),Shinsekai yori
+29,Boku dake ga Inai Machi,8.33,TV (12 eps),Jan 2016 - Mar 2016,A-1 Pictures,"['Mystery', 'Supernatural', 'Psychological', 'Seinen']",Manga,R - 17+ (violence & profanity),Steins;Gate
+30,One Piece,8.59,TV (? eps),Oct 1999 -,Toei Animation,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,Fairy Tail
+31,Sword Art Online II,6.72,TV (24 eps),Jul 2014 - Dec 2014,A-1 Pictures,"['Action', 'Adventure', 'Fantasy', 'Romance', 'Game']",Light novel,PG-13 - Teens 13 or older,Log Horizon 2nd Season
+32,Ao no Exorcist,7.54,TV (25 eps),Apr 2011 - Oct 2011,A-1 Pictures,"['Action', 'Fantasy', 'Supernatural', 'Demons', 'Shounen']",Manga,PG-13 - Teens 13 or older,Soul Eater
+33,Ansatsu Kyoushitsu,8.11,TV (22 eps),Jan 2015 - Jun 2015,Lerche,"['Action', 'Comedy', 'School', 'Shounen']",Manga,PG-13 - Teens 13 or older,Great Teacher Onizuka
+34,Shingeki no Kyojin Season 3 Part 2,9.10,TV (10 eps),Apr 2019 - Jul 2019,Wit Studio,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Military', 'Super Power', 'Shounen']",Manga,R - 17+ (violence & profanity),Koutetsujou no Kabaneri
+35,Kono Subarashii Sekai ni Shukufuku wo!,8.14,TV (10 eps),Jan 2016 - Mar 2016,Studio Deen,"['Adventure', 'Comedy', 'Fantasy', 'Supernatural', 'Parody']",Light novel,PG-13 - Teens 13 or older,Re:Zero kara Hajimeru Isekai Seikatsu
+36,Mob Psycho 100,8.48,TV (12 eps),Jul 2016 - Sep 2016,Bones,"['Action', 'Comedy', 'Slice of Life', 'Supernatural']",Web manga,PG-13 - Teens 13 or older,One Punch Man
+37,Haikyuu!!,8.47,TV (25 eps),Apr 2014 - Sep 2014,Production I.G,"['Comedy', 'Drama', 'Sports', 'School', 'Shounen']",Manga,PG-13 - Teens 13 or older,Kuroko no Basket
+38,Bleach,7.81,TV (366 eps),Oct 2004 - Mar 2012,Studio Pierrot,"['Action', 'Adventure', 'Comedy', 'Supernatural', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,Yuu☆Yuu☆Hakusho
+39,Yakusoku no Neverland,8.58,TV (12 eps),Jan 2019 - Mar 2019,CloverWorks,"['Horror', 'Mystery', 'Sci-Fi', 'Suspense', 'Psychological', 'Shounen']",Manga,R - 17+ (violence & profanity),Shingeki no Kyojin
+40,Fairy Tail,7.61,TV (175 eps),Oct 2009 - Mar 2013,A-1 Pictures,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Shounen']",Manga,PG-13 - Teens 13 or older,One Piece
+41,Kiseijuu: Sei no Kakuritsu,8.37,TV (24 eps),Oct 2014 - Mar 2015,Madhouse,"['Action', 'Drama', 'Horror', 'Sci-Fi', 'Psychological', 'Seinen']",Manga,R - 17+ (violence & profanity),Tokyo Ghoul
+42,Sen to Chihiro no Kamikakushi,8.80,Movie (1 eps),Jul 2001 - Jul 2001,Studio Ghibli,"['Adventure', 'Drama', 'Supernatural']",Original,PG - Children,Howl no Ugoku Shiro
+43,Tokyo Ghoul √A,7.04,TV (12 eps),Jan 2015 - Mar 2015,Studio Pierrot,"['Action', 'Drama', 'Horror', 'Mystery', 'Supernatural', 'Psychological', 'Seinen']",Manga,R - 17+ (violence & profanity),Kiseijuu: Sei no Kakuritsu
+44,Cowboy Bebop,8.77,TV (26 eps),Apr 1998 - Apr 1999,Sunrise,"['Action', 'Adventure', 'Comedy', 'Drama', 'Sci-Fi', 'Space']",Original,R - 17+ (violence & profanity),Samurai Champloo
+45,Code Geass: Hangyaku no Lelouch R2,8.91,TV (25 eps),Apr 2008 - Sep 2008,Sunrise,"['Action', 'Drama', 'Sci-Fi', 'Mecha', 'Military', 'Super Power']",Original,R - 17+ (violence & profanity),Death Note
+46,Jujutsu Kaisen (TV),8.74,TV (24 eps),Oct 2020 - Mar 2021,MAPPA,"['Action', 'Supernatural', 'Demons', 'School', 'Shounen']",Manga,R - 17+ (violence & profanity),Kimetsu no Yaiba
+47,Kill la Kill,8.07,TV (24 eps),Oct 2013 - Mar 2014,Trigger,"['Action', 'Comedy', 'Ecchi', 'School', 'Super Power']",Original,PG-13 - Teens 13 or older,Tengen Toppa Gurren Lagann
+48,Death Parade,8.18,TV (12 eps),Jan 2015 - Mar 2015,Madhouse,"['Drama', 'Mystery', 'Suspense', 'Game', 'Psychological']",Original,R - 17+ (violence & profanity),Death Note
+49,Another,7.51,TV (12 eps),Jan 2012 - Mar 2012,P.A. Works,"['Horror', 'Mystery', 'Supernatural', 'Suspense', 'School']",Light novel,R - 17+ (violence & profanity),Higurashi no Naku Koro ni
+50,Neon Genesis Evangelion,8.33,TV (26 eps),Oct 1995 - Mar 1996,Tatsunoko Production,"['Action', 'Avant Garde', 'Drama', 'Sci-Fi', 'Mecha', 'Psychological']",Original,PG-13 - Teens 13 or older,Mahou Shoujo Madoka★Magica
+51,Soul Eater,7.85,TV (51 eps),Apr 2008 - Mar 2009,Bones,"['Action', 'Comedy', 'Fantasy', 'Supernatural', 'Shounen']",Manga,PG-13 - Teens 13 or older,Ao no Exorcist
+52,Psycho-Pass,8.36,TV (22 eps),Oct 2012 - Mar 2013,Production I.G,"['Action', 'Sci-Fi', 'Suspense', 'Police', 'Psychological']",Original,R - 17+ (violence & profanity),Death Note
+53,Shokugeki no Souma,8.22,TV (24 eps),Apr 2015 - Sep 2015,J.C.Staff,"['Gourmet', 'Ecchi', 'School', 'Shounen']",Manga,PG-13 - Teens 13 or older,Yakitate!! Japan
+54,Tengen Toppa Gurren Lagann,8.65,TV (27 eps),Apr 2007 - Sep 2007,Gainax,"['Action', 'Adventure', 'Comedy', 'Sci-Fi', 'Mecha']",Original,PG-13 - Teens 13 or older,Kill la Kill
+55,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8.37,TV (11 eps),Apr 2011 - Jun 2011,A-1 Pictures,"['Drama', 'Slice of Life', 'Supernatural']",Original,PG-13 - Teens 13 or older,Angel Beats!
+56,Violet Evergarden,8.65,TV (13 eps),Jan 2018 - Apr 2018,Kyoto Animation,"['Drama', 'Fantasy', 'Slice of Life']",Light novel,PG-13 - Teens 13 or older,Vivy: Fluorite Eye's Song
+57,Elfen Lied,7.53,TV (13 eps),Jul 2004 - Oct 2004,Arms,"['Action', 'Drama', 'Horror', 'Romance', 'Supernatural', 'Psychological', 'Seinen']",Manga,R+ - Mild Nudity,Higurashi no Naku Koro ni
+58,Shingeki no Kyojin: The Final Season,8.92,TV (16 eps),Dec 2020 - Mar 2021,MAPPA,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Military', 'Super Power', 'Shounen']",Manga,R - 17+ (violence & profanity),Youjo Senki
+59,Fullmetal Alchemist,8.13,TV (51 eps),Oct 2003 - Oct 2004,Bones,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Military', 'Shounen']",Manga,PG-13 - Teens 13 or older,D.Gray-man
+60,Charlotte,7.75,TV (13 eps),Jul 2015 - Sep 2015,P.A. Works,"['Drama', 'School', 'Super Power']",Original,PG-13 - Teens 13 or older,Angel Beats!
+61,Boku no Hero Academia 4th Season,8.00,TV (25 eps),Oct 2019 - Apr 2020,Bones,"['Action', 'Comedy', 'School', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,One Piece
+62,Darling in the FranXX,7.27,TV (24 eps),Jan 2018 - Jul 2018,CloverWorks,"['Action', 'Drama', 'Romance', 'Sci-Fi', 'Mecha']",Original,PG-13 - Teens 13 or older,Neon Genesis Evangelion
+63,Dr. Stone,8.31,TV (24 eps),Jul 2019 - Dec 2019,TMS Entertainment,"['Adventure', 'Comedy', 'Sci-Fi', 'Shounen']",Manga,PG-13 - Teens 13 or older,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
+64,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8.31,TV (13 eps),Oct 2018 - Dec 2018,CloverWorks,"['Comedy', 'Drama', 'Romance', 'Supernatural', 'School']",Light novel,PG-13 - Teens 13 or older,Bakemonogatari
+65,Highschool of the Dead,7.10,TV (12 eps),Jul 2010 - Sep 2010,Madhouse,"['Action', 'Horror', 'Supernatural', 'Ecchi', 'Shounen']",Manga,R+ - Mild Nudity,High School DxD
+66,Fate/Zero,8.31,TV (13 eps),Oct 2011 - Dec 2011,ufotable,"['Action', 'Fantasy', 'Supernatural']",Light novel,R - 17+ (violence & profanity),Mirai Nikki (TV)
+67,Hataraku Maou-sama!,7.80,TV (13 eps),Apr 2013 - Jun 2013,White Fox,"['Comedy', 'Fantasy', 'Romance', 'Supernatural', 'Demons']",Light novel,PG-13 - Teens 13 or older,Noragami
+68,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7.59,TV (13 eps),Apr 2015 - Jun 2015,J.C.Staff,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance']",Light novel,PG-13 - Teens 13 or older,Sword Art Online
+69,One Punch Man 2nd Season,7.43,TV (12 eps),Apr 2019 - Jul 2019,J.C.Staff,"['Action', 'Comedy', 'Sci-Fi', 'Supernatural', 'Parody', 'Super Power']",Web manga,R - 17+ (violence & profanity),Boku no Hero Academia
+70,Clannad,8.03,TV (23 eps),Oct 2007 - Mar 2008,Kyoto Animation,"['Comedy', 'Drama', 'Romance', 'Slice of Life', 'Supernatural', 'School']",Visual novel,PG-13 - Teens 13 or older,Kanon (2006)
+71,Durarara!!,8.14,TV (24 eps),Jan 2010 - Jun 2010,Brain's Base,"['Action', 'Mystery', 'Supernatural']",Light novel,R - 17+ (violence & profanity),Baccano!
+72,JoJo no Kimyou na Bouken (TV),7.96,TV (26 eps),Oct 2012 - Apr 2013,David Production,"['Action', 'Adventure', 'Supernatural', 'Vampire', 'Shounen']",Manga,R - 17+ (violence & profanity),Hunter x Hunter (2011)
+73,Overlord,7.93,TV (13 eps),Jul 2015 - Sep 2015,Madhouse,"['Action', 'Adventure', 'Fantasy', 'Supernatural', 'Game']",Light novel,R - 17+ (violence & profanity),Tensei shitara Slime Datta Ken
+74,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8.40,TV (12 eps),Jan 2019 - Mar 2019,A-1 Pictures,"['Comedy', 'Romance', 'Psychological', 'School', 'Seinen']",Manga,PG-13 - Teens 13 or older,Karakai Jouzu no Takagi-san
+75,Noragami Aragoto,8.18,TV (13 eps),Oct 2015 - Dec 2015,Bones,"['Action', 'Adventure', 'Comedy', 'Supernatural', 'Shounen']",Manga,PG-13 - Teens 13 or older,Ao no Exorcist
+76,Bakemonogatari,8.35,TV (15 eps),Jul 2009 - Jun 2010,Shaft,"['Mystery', 'Romance', 'Supernatural', 'Vampire']",Light novel,R - 17+ (violence & profanity),Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+77,Kono Subarashii Sekai ni Shukufuku wo! 2,8.29,TV (10 eps),Jan 2017 - Mar 2017,Studio Deen,"['Adventure', 'Comedy', 'Fantasy', 'Supernatural', 'Parody']",Light novel,PG-13 - Teens 13 or older,Kore wa Zombie Desu ka?
+78,High School DxD,7.36,TV (12 eps),Jan 2012 - Mar 2012,TNK,"['Comedy', 'Romance', 'Ecchi', 'Demons', 'Harem', 'School']",Light novel,R+ - Mild Nudity,Shinmai Maou no Testament
+79,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8.04,TV (13 eps),Apr 2013 - Jun 2013,Brain's Base,"['Comedy', 'Drama', 'Romance', 'Slice of Life', 'School']",Light novel,PG-13 - Teens 13 or older,Hyouka
+80,Tate no Yuusha no Nariagari,8.02,TV (25 eps),Jan 2019 - Jun 2019,Kinema Citrus,"['Action', 'Adventure', 'Drama', 'Fantasy']",Light novel,PG-13 - Teens 13 or older,Arifureta Shokugyou de Sekai Saikyou
+81,Black Clover,8.05,TV (170 eps),Oct 2017 - Mar 2021,Studio Pierrot,"['Action', 'Comedy', 'Fantasy', 'Shounen']",Manga,PG-13 - Teens 13 or older,Naruto
+82,Chuunibyou demo Koi ga Shitai!,7.74,TV (12 eps),Oct 2012 - Dec 2012,Kyoto Animation,"['Comedy', 'Drama', 'Romance', 'Slice of Life', 'School']",Light novel,PG-13 - Teens 13 or older,Suzumiya Haruhi no Yuuutsu
+83,Kakegurui,7.30,TV (12 eps),Jul 2017 - Sep 2017,MAPPA,"['Drama', 'Mystery', 'Game', 'Psychological', 'School', 'Shounen']",Manga,R - 17+ (violence & profanity),No Game No Life
+84,Hyouka,8.12,TV (22 eps),Apr 2012 - Sep 2012,Kyoto Animation,"['Mystery', 'Slice of Life', 'School']",Novel,PG-13 - Teens 13 or older,Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+85,Haikyuu!! Second Season,8.67,TV (25 eps),Oct 2015 - Mar 2016,Production I.G,"['Comedy', 'Drama', 'Sports', 'School', 'Shounen']",Manga,PG-13 - Teens 13 or older,Diamond no Ace: Second Season
+86,Ansatsu Kyoushitsu 2nd Season,8.52,TV (25 eps),Jan 2016 - Jul 2016,Lerche,"['Action', 'Comedy', 'School', 'Shounen']",Manga,PG-13 - Teens 13 or older,Great Teacher Onizuka
+87,Mahou Shoujo Madoka★Magica,8.36,TV (12 eps),Jan 2011 - Apr 2011,Shaft,"['Drama', 'Suspense', 'Psychological']",Original,PG-13 - Teens 13 or older,Neon Genesis Evangelion
+88,Mob Psycho 100 II,8.82,TV (13 eps),Jan 2019 - Apr 2019,Bones,"['Action', 'Comedy', 'Slice of Life', 'Supernatural']",Web manga,PG-13 - Teens 13 or older,Saiki Kusuo no Ψ-nan
+89,Deadman Wonderland,7.19,TV (12 eps),Apr 2011 - Jul 2011,Manglobe,"['Action', 'Horror', 'Sci-Fi', 'Supernatural', 'Shounen']",Manga,R - 17+ (violence & profanity),Mirai Nikki (TV)
+90,Guilty Crown,7.47,TV (22 eps),Oct 2011 - Mar 2012,Production I.G,"['Action', 'Drama', 'Romance', 'Sci-Fi', 'Mecha', 'Super Power']",Original,R - 17+ (violence & profanity),Code Geass: Hangyaku no Lelouch
+91,Owari no Seraph,7.49,TV (12 eps),Apr 2015 - Jun 2015,Wit Studio,"['Action', 'Drama', 'Supernatural', 'Military', 'Vampire', 'Shounen']",Manga,R - 17+ (violence & profanity),Shingeki no Kyojin
+92,Sakura-sou no Pet na Kanojo,8.14,TV (24 eps),Oct 2012 - Mar 2013,J.C.Staff,"['Comedy', 'Drama', 'Romance', 'Slice of Life', 'School']",Light novel,PG-13 - Teens 13 or older,Toradora!
+93,Kaichou wa Maid-sama!,8.03,TV (26 eps),Apr 2010 - Sep 2010,J.C.Staff,"['Comedy', 'Romance', 'School', 'Shoujo']",Manga,PG-13 - Teens 13 or older,Special A
+94,Samurai Champloo,8.50,TV (26 eps),May 2004 - Mar 2005,Manglobe,"['Action', 'Adventure', 'Comedy', 'Historical', 'Samurai', 'Shounen']",Original,R - 17+ (violence & profanity),Cowboy Bebop
+95,Dragon Ball Z,8.15,TV (291 eps),Apr 1989 - Jan 1996,Toei Animation,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Super Power', 'Shounen']",Manga,PG-13 - Teens 13 or older,Yuu☆Yuu☆Hakusho
+96,Made in Abyss,8.70,TV (13 eps),Jul 2017 - Sep 2017,Kinema Citrus,"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",Web manga,R - 17+ (violence & profanity),Yakusoku no Neverland
+97,Clannad: After Story,8.95,TV (24 eps),Oct 2008 - Mar 2009,Kyoto Animation,"['Comedy', 'Drama', 'Romance', 'Slice of Life', 'Supernatural']",Visual novel,PG-13 - Teens 13 or older,Shigatsu wa Kimi no Uso
+98,Howl no Ugoku Shiro,8.66,Movie (1 eps),Nov 2004 - Nov 2004,Studio Ghibli,"['Adventure', 'Drama', 'Fantasy', 'Romance']",Novel,G - All Ages,Sen to Chihiro no Kamikakushi
+99,Mononoke Hime,8.69,Movie (1 eps),Jul 1997 - Jul 1997,Studio Ghibli,"['Action', 'Adventure', 'Fantasy']",Original,PG-13 - Teens 13 or older,Kaze no Tani no Nausicaä
+100,Bungou Stray Dogs,7.81,TV (12 eps),Apr 2016 - Jun 2016,Bones,"['Action', 'Comedy', 'Mystery', 'Supernatural', 'Super Power', 'Seinen']",Manga,R - 17+ (violence & profanity),Kekkai Sensen
